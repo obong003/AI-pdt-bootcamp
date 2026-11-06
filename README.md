@@ -67,3 +67,4 @@ No build step, Node.js, or server configuration is required.
 ## 📄 License
 
 MIT License. Free to use and modify for personal and educational projects.
+
